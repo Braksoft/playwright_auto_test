@@ -1,16 +1,16 @@
 # playwright_auto_test
-Test project at playwright in which I learn about and use new features 
+
+Test project at playwright in which I learn about and use new features
 
 # Test Automation training
 
-This is a Test Automation project based on `Playwright` and `TypeScript`. 
+This is a Test Automation project based on `Playwright` and `TypeScript`.
 
 The tested page is a simple demo of a bank.
 
 ## Links
 
 - test site https://the-internet.herokuapp.com/
-
 
 ## Commands
 
@@ -149,4 +149,3 @@ The tested page is a simple demo of a bank.
 - run Prettier  
   `npx prettier --write .`
 - additionaly you can install VSC extension: Prettier
-
